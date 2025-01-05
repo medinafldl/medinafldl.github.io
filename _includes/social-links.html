@@ -36,4 +36,10 @@
             <i class="fa-regular fa-envelope"></i>
         </a>
     {% endif %}
+
+    {% if site.google_scholar %}
+        <a class="link" data-title="Google Scholar" href="https://scholar.google.de/citations?user={{ site.google_scholar }}" target="_blank" rel="noopener">
+            <i class="fa fa-graduation-cap"></i> 
+        </a>
+    {% endif %}
 </div>
