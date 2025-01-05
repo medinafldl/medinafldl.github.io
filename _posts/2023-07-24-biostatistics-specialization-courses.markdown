@@ -15,7 +15,7 @@ projects: true
 hidden: false # don't count this post in blog pagination
 description: "Exploring the specialized courses from my Biostatistics curriculum that shaped my expertise in analyzing biological data and epidemiological studies."
 category: blog
-author: medinabajramovic
+author: medinafeldl
 externalLink: false
 ---
 

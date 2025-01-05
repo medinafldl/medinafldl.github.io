@@ -15,7 +15,7 @@ projects: true
 hidden: false
 description: "Unraveling the World of Sensitivity Analysis in Clinical Research through a Seminar"
 category: project
-author: medinabajramovic
+author: medinafeldl
 externalLink: false
 ---
 

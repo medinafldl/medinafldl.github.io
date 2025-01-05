@@ -14,7 +14,7 @@ projects: true
 hidden: false # don't count this post in blog pagination
 description: "R Package for Differential Growth Curve Analysis"
 category: project
-author: medinabajramovic
+author: medinafeldl
 externalLink: false
 ---
 

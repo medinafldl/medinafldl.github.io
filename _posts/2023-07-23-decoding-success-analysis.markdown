@@ -14,7 +14,7 @@ projects: true
 hidden: false # don't count this post in blog pagination
 description: "Statistical Analysis of Hackathons"
 category: project
-author: medinabajramovic
+author: medinafeldl
 externalLink: false
 ---
 

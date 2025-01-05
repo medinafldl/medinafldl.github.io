@@ -1,5 +1,5 @@
 # main text of home
-title: Medina Bajramovic
+title: Medina Feldl
 bio: As an enthusiastic Data Scientist at Helmholtz Munich seeking a PhD in Computational Biology, I've used my abilities to create an R software for growth curve analysis or use deep learning to forecast diseases. When I'm not crunching data, I'm taking care of my houseplants or improving my knowledge of Python and R. With a strong desire to convert intricate data into practical insights, I'm prepared to take on issues one dataset (and cup of coffee) at a time.
 
 # twitter summary info
@@ -21,8 +21,7 @@ resume-external: false
 resume-url: "resume/"
 # resume-url: https://google.com/?q=my+resume
 
-url: https://medinabaj.github.io
-# your url: https://USERNAME.github.io
+url: https://medinabajramovic.de
 
 permalink: /:title/
 
@@ -38,16 +37,14 @@ disqus:
 # facebook: myfacebook
 # twitter: mytwitter
 # instagram: myinstagram
-linkedin: bajramovic-medina
-github: medinabaj
+linkedin: medina-feldl
+github: medinafldl
 google_scholar: yxBvMB8AAAAJ
-email: mail@medinabajramovic.de
-
-# email: myemail@gmail.com
+email: medina.feldl@helmholtz-munich.de
 
 authors:
-  medinabajramovic:
-    name: Medina Bajramovic
+  medinafeldl:
+    name: Medina Feldl
     bio: Data Scientist and Biostatistician
     external-image: false
     picture: assets/images/profile.jpg

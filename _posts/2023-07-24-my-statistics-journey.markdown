@@ -13,7 +13,7 @@ projects: true
 hidden: false # don't count this post in blog pagination
 description: "A deep dive into my educational journey, highlighting the key learnings from my Master's in Statistics and Data Science."
 category: blog
-author: medinabajramovic
+author: medinafeldl
 externalLink: false
 ---
 Embarking on my Masters in Statistics and Data Science was a fascinating journey, filled with the thrill of uncovering complex concepts, facing challenges head-on, and making meaningful connections between theory and practice. Here, I would like to give you an insight into some of the most influential courses I have taken and the key insights I have gained from them:

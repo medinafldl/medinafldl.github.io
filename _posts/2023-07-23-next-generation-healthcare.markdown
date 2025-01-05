@@ -13,7 +13,7 @@ projects: true
 hidden: false # don't count this post in blog pagination
 description: "Myocardinal Infaction and Stroke prediction using Deep Learning"
 category: project
-author: medinabajramovic
+author: medinafeldl
 externalLink: false
 ---
 

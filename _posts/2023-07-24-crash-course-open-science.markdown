@@ -14,7 +14,7 @@ projects: true
 hidden: false
 description: "My experience navigating the realm of Open Science through a comprehensive crash course"
 category: blog
-author: medinabajramovic
+author: medinafeldl
 externalLink: false
 ---
 

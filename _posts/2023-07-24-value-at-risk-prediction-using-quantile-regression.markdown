@@ -14,7 +14,7 @@ projects: true
 hidden: false # don't count this post in blog pagination
 description: "Exploring Quantile Regression as a Robust Risk Management Tool in Financial Markets"
 category: project
-author: medinabajramovic
+author: medinafeldl
 externalLink: false
 ---
 
